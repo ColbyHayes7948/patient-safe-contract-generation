@@ -1,0 +1,1 @@
+"""Appointment contract generation service."""
